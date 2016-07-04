@@ -1,7 +1,12 @@
-Vice Analyzer -- tracking people's payments for "shady" activities on Venmo
+Vicemo Scraper
+
+Vicemo Scraper is a Python webscraper that collects data from vicemo.com, which tracks real, publicly available Venmo
+transactions involving drugs, booze, and sex, created by Mike Lacher and Chris Baker. This module automatically clenases
+and analyzes the data to create a simple visualization on the what are the most frequently mentioned words and emojis
+related to sex, alcohol and drugs on Venmo on a real-time basis.
 
 Kenny Kyunghoon Lee
-KL1214@nyu.edu
+kenny.k.lee@nyu.edu
 
 Introduction
     1. This program is a webscraper and data visualizer that extracts the public data on supposed transactions for
